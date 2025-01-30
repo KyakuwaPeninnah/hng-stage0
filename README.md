@@ -23,8 +23,7 @@ Open in browser: http://127.0.0.1:8000
 API Documentation
 Endpoint
 Base URL:
-https://hng-stage0-production-0990.up.railway.app/
-
+https://web-production-eafdf.up.railway.app/
 GET /
 GET /hire/python-developers
 
@@ -36,8 +35,7 @@ HTTP 200 OK
   "github_url": "https://github.com/yourusername/your-repo"
 }
 Deployment
-The API is deployed on https://hng-stage0-production-0990.up.railway.app/
-
+The API is deployed on https://web-production-eafdf.up.railway.app/
 Useful Links
 Hire Python Developers
 Hire C# Developers
