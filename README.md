@@ -35,9 +35,10 @@ HTTP 200 OK
   "github_url": "https://github.com/yourusername/your-repo"
 }
 Deployment
-The API is deployed on https://web-production-eafdf.up.railway.app/
+The API is deployed on https://hng-stage0-production-0990.up.railway.app/
+
 Useful Links
-Hire Python Developers
+[Hire Python Developers](https://hng.tech/hire/python-developers)
 Hire C# Developers
 Hire Golang Developers
 Hire PHP Developers
